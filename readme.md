@@ -9,9 +9,7 @@ Projet caricatif pour l'association des sauveteurs Dunkerquois lors de la nuit d
 - **Lieu :** [Grenoble]
 - **Événement :** Nuit de l'Info 2021 à Grenoble
 
-## Description
 
-[Description détaillée du projet]
 
 ## Participants
 
