@@ -1,6 +1,6 @@
-# Nom du Projet
+# Sauveteurs Dunkerquois
 
-[Description brève du projet]
+Projet caricatif pour l'association des sauveteurs Dunkerquois lors de la nuit de l'info 2021
 
 ## Informations générales
 
